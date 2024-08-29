@@ -12,7 +12,7 @@
     margin: 15px;
 }
 
-.team-member:hover .profile {
+.team-member:hover {
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     border: 3px solid #3498db;
 }
